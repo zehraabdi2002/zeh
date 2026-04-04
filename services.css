@@ -1,0 +1,16 @@
+body{
+background-color: rgb(120, 159, 74);
+color:white;
+}
+nav{
+    background-color: brown;
+}
+p{
+    background-color: deepskyblue;
+}
+ul{
+    background-color: rgb(146, 77, 42);
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}

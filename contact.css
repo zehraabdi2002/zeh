@@ -1,0 +1,14 @@
+body{
+background-color: teal;
+color:white;
+}
+nav{
+    background-color: coral;
+}
+dl{
+    background-color: rgb(70, 120, 161);
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    font-weight: 300;
+}
